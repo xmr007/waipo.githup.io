@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"a_BiaoQian_Xiao","texture":"1403fd8f1","rect":[273,3,255,252],"offset":[0,0],"originalSize":[255,252],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"a_JianZao_DiMian","texture":"1ddf4e171","rect":[879,468,120,124],"offset":[0,0],"originalSize":[120,124],"rotated":1,"capInsets":[10,10,10,10]}}]

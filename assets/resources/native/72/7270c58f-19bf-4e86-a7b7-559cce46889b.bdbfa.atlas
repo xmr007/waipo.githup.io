@@ -1,0 +1,69 @@
+
+HaiOu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chi_L_1
+  rotate: false
+  xy: 235, 177
+  size: 62, 71
+  orig: 64, 73
+  offset: 1, 1
+  index: -1
+Chi_L_1_A
+  rotate: true
+  xy: 2, 2
+  size: 50, 71
+  orig: 55, 73
+  offset: 3, 1
+  index: -1
+Chi_L_2
+  rotate: true
+  xy: 60, 54
+  size: 94, 97
+  orig: 96, 99
+  offset: 1, 1
+  index: -1
+Chi_L_2_A
+  rotate: false
+  xy: 157, 159
+  size: 76, 89
+  orig: 79, 92
+  offset: 1, 2
+  index: -1
+Chi_R_1
+  rotate: true
+  xy: 159, 5
+  size: 61, 71
+  orig: 63, 73
+  offset: 1, 1
+  index: -1
+Chi_R_1_A
+  rotate: true
+  xy: 75, 2
+  size: 50, 71
+  orig: 54, 73
+  offset: 2, 1
+  index: -1
+Chi_R_2
+  rotate: false
+  xy: 60, 150
+  size: 95, 98
+  orig: 97, 100
+  offset: 1, 1
+  index: -1
+Chi_R_2_A
+  rotate: false
+  xy: 159, 68
+  size: 75, 89
+  orig: 79, 93
+  offset: 2, 3
+  index: -1
+Shen
+  rotate: true
+  xy: 2, 54
+  size: 194, 56
+  orig: 194, 56
+  offset: 0, 0
+  index: -1

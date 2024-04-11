@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"HongDianTiXing","_duration":1.6129032258064515,"sample":31,"wrapMode":22,"curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":0.85,"y":0.85}},{"frame":1.6129032258064515,"value":{"__type__":"cc.Vec2","x":1.15,"y":1.15}}]}}}

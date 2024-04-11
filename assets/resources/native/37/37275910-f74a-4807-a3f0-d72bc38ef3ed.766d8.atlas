@@ -1,0 +1,201 @@
+
+Chuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HC_1
+  rotate: false
+  xy: 611, 654
+  size: 236, 122
+  orig: 254, 142
+  offset: 12, 4
+  index: -1
+HC_2
+  rotate: false
+  xy: 504, 513
+  size: 268, 139
+  orig: 288, 163
+  offset: 13, 4
+  index: -1
+HC_3
+  rotate: false
+  xy: 258, 364
+  size: 290, 147
+  orig: 304, 163
+  offset: 13, 5
+  index: -1
+HC_4
+  rotate: false
+  xy: 2, 208
+  size: 338, 154
+  orig: 348, 163
+  offset: 5, 4
+  index: -1
+KC_1
+  rotate: false
+  xy: 259, 551
+  size: 243, 132
+  orig: 247, 136
+  offset: 3, 3
+  index: -1
+KC_2
+  rotate: false
+  xy: 2, 618
+  size: 255, 130
+  orig: 258, 133
+  offset: 2, 2
+  index: -1
+KC_3
+  rotate: true
+  xy: 849, 537
+  size: 239, 155
+  orig: 244, 159
+  offset: 4, 3
+  index: -1
+KC_4
+  rotate: true
+  xy: 834, 258
+  size: 277, 169
+  orig: 285, 173
+  offset: 4, 3
+  index: -1
+KC_5
+  rotate: false
+  xy: 642, 98
+  size: 360, 158
+  orig: 362, 162
+  offset: 1, 3
+  index: -1
+LangHua_0
+  rotate: false
+  xy: 2, 846
+  size: 403, 46
+  orig: 405, 50
+  offset: 1, 2
+  index: -1
+LangHua_1
+  rotate: false
+  xy: 2, 894
+  size: 404, 44
+  orig: 408, 48
+  offset: 2, 2
+  index: -1
+LangHua_2
+  rotate: false
+  xy: 408, 893
+  size: 425, 45
+  orig: 429, 49
+  offset: 2, 2
+  index: -1
+ShuiWen_T_0
+  rotate: false
+  xy: 2, 750
+  size: 179, 94
+  orig: 193, 105
+  offset: 8, 7
+  index: -1
+ShuiWen_T_1
+  rotate: false
+  xy: 595, 798
+  size: 181, 93
+  orig: 192, 103
+  offset: 7, 7
+  index: -1
+ShuiWen_T_2
+  rotate: false
+  xy: 835, 873
+  size: 186, 65
+  orig: 197, 73
+  offset: 8, 6
+  index: -1
+ShuiWen_Z_0
+  rotate: false
+  xy: 183, 750
+  size: 179, 94
+  orig: 193, 105
+  offset: 6, 7
+  index: -1
+ShuiWen_Z_1
+  rotate: false
+  xy: 778, 778
+  size: 181, 93
+  orig: 192, 103
+  offset: 4, 7
+  index: -1
+ShuiWen_Z_2
+  rotate: false
+  xy: 407, 826
+  size: 186, 65
+  orig: 197, 73
+  offset: 3, 6
+  index: -1
+YC_1
+  rotate: false
+  xy: 364, 685
+  size: 245, 111
+  orig: 247, 118
+  offset: 1, 6
+  index: -1
+YC_2
+  rotate: false
+  xy: 550, 360
+  size: 282, 151
+  orig: 284, 158
+  offset: 1, 6
+  index: -1
+YC_3
+  rotate: false
+  xy: 2, 466
+  size: 254, 150
+  orig: 256, 157
+  offset: 1, 6
+  index: -1
+YC_4
+  rotate: false
+  xy: 354, 2
+  size: 271, 197
+  orig: 295, 204
+  offset: 1, 6
+  index: -1
+YC_5
+  rotate: false
+  xy: 342, 201
+  size: 298, 157
+  orig: 300, 164
+  offset: 1, 6
+  index: -1
+YC_6
+  rotate: false
+  xy: 2, 10
+  size: 350, 189
+  orig: 352, 196
+  offset: 1, 6
+  index: -1
+
+Chuan2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HC_5
+  rotate: true
+  xy: 243, 30
+  size: 377, 232
+  orig: 387, 239
+  offset: 9, 5
+  index: -1
+HC_6
+  rotate: true
+  xy: 2, 2
+  size: 405, 239
+  orig: 407, 247
+  offset: 1, 7
+  index: -1
+KC_6
+  rotate: true
+  xy: 477, 11
+  size: 396, 193
+  orig: 398, 197
+  offset: 1, 3
+  index: -1

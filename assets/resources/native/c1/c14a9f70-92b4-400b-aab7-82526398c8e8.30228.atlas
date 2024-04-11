@@ -1,0 +1,83 @@
+
+YinDao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DaBi_L
+  rotate: false
+  xy: 280, 2
+  size: 106, 197
+  orig: 108, 200
+  offset: 1, 2
+  index: -1
+DaBi_R
+  rotate: true
+  xy: 2, 12
+  size: 135, 179
+  orig: 142, 181
+  offset: 6, 1
+  index: -1
+Duo
+  rotate: true
+  xy: 258, 201
+  size: 302, 268
+  orig: 304, 270
+  offset: 1, 1
+  index: -1
+Shen
+  rotate: false
+  xy: 2, 149
+  size: 254, 354
+  orig: 254, 354
+  offset: 0, 0
+  index: -1
+Shou_L
+  rotate: false
+  xy: 528, 214
+  size: 81, 111
+  orig: 83, 113
+  offset: 1, 1
+  index: -1
+Shou_R
+  rotate: true
+  xy: 183, 20
+  size: 127, 95
+  orig: 129, 97
+  offset: 1, 1
+  index: -1
+Tou
+  rotate: true
+  xy: 388, 3
+  size: 196, 210
+  orig: 198, 212
+  offset: 1, 1
+  index: -1
+XiaoBi_L
+  rotate: true
+  xy: 602, 340
+  size: 163, 80
+  orig: 166, 84
+  offset: 1, 2
+  index: -1
+XiaoBi_R
+  rotate: true
+  xy: 528, 327
+  size: 176, 72
+  orig: 179, 74
+  offset: 1, 1
+  index: -1
+Yan_1
+  rotate: true
+  xy: 600, 116
+  size: 96, 55
+  orig: 98, 57
+  offset: 1, 1
+  index: -1
+Zui_1
+  rotate: true
+  xy: 600, 37
+  size: 77, 52
+  orig: 80, 54
+  offset: 1, 1
+  index: -1

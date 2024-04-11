@@ -1,0 +1,55 @@
+
+Loading.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuiKe
+  rotate: false
+  xy: 2, 2
+  size: 93, 56
+  orig: 95, 68
+  offset: 1, 11
+  index: -1
+GuiTou
+  rotate: false
+  xy: 210, 32
+  size: 37, 26
+  orig: 39, 28
+  offset: 1, 1
+  index: -1
+Tui_1
+  rotate: false
+  xy: 97, 8
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+Tui_2
+  rotate: false
+  xy: 140, 19
+  size: 34, 39
+  orig: 34, 40
+  offset: 0, 1
+  index: -1
+Tui_3
+  rotate: false
+  xy: 176, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+Tui_4
+  rotate: false
+  xy: 210, 2
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Wei
+  rotate: false
+  xy: 140, 2
+  size: 32, 15
+  orig: 34, 17
+  offset: 1, 1
+  index: -1

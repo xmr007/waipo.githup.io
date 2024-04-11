@@ -1,0 +1,202 @@
+
+ShuiChan.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GY_Qi_L
+  rotate: true
+  xy: 156, 6
+  size: 10, 8
+  orig: 12, 10
+  offset: 1, 1
+  index: -1
+GY_Qi_R
+  rotate: true
+  xy: 175, 2
+  size: 7, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+GY_Shen
+  rotate: false
+  xy: 44, 36
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+PX_Ding
+  rotate: true
+  xy: 360, 8
+  size: 23, 22
+  orig: 25, 24
+  offset: 1, 1
+  index: -1
+PX_Tui_L
+  rotate: true
+  xy: 171, 20
+  size: 22, 26
+  orig: 24, 28
+  offset: 1, 1
+  index: -1
+PX_Tui_R
+  rotate: false
+  xy: 304, 3
+  size: 22, 24
+  orig: 24, 26
+  offset: 1, 1
+  index: -1
+PX_Zhua_L
+  rotate: true
+  xy: 251, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+PX_Zhua_R
+  rotate: true
+  xy: 202, 44
+  size: 18, 26
+  orig: 18, 27
+  offset: 0, 1
+  index: -1
+QP_0
+  rotate: false
+  xy: 132, 5
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+QP_1
+  rotate: false
+  xy: 115, 6
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+QP_2
+  rotate: true
+  xy: 328, 2
+  size: 27, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+QP_3
+  rotate: true
+  xy: 347, 33
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+QP_4
+  rotate: true
+  xy: 251, 23
+  size: 39, 29
+  orig: 41, 31
+  offset: 1, 1
+  index: -1
+QP_5
+  rotate: false
+  xy: 94, 6
+  size: 19, 10
+  orig: 21, 12
+  offset: 1, 1
+  index: -1
+QP_6
+  rotate: true
+  xy: 166, 7
+  size: 9, 7
+  orig: 11, 9
+  offset: 1, 1
+  index: -1
+SB_Di
+  rotate: true
+  xy: 315, 31
+  size: 31, 30
+  orig: 33, 32
+  offset: 1, 1
+  index: -1
+SB_Ding
+  rotate: true
+  xy: 282, 29
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+Shui_GY
+  rotate: false
+  xy: 2, 2
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+Shui_PX
+  rotate: false
+  xy: 44, 18
+  size: 62, 16
+  orig: 62, 16
+  offset: 0, 0
+  index: -1
+Shui_SB
+  rotate: false
+  xy: 102, 39
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+Shui_X
+  rotate: false
+  xy: 158, 44
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+X_Shen
+  rotate: true
+  xy: 2, 18
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+X_Zhua_L
+  rotate: false
+  xy: 66, 4
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+X_Zhua_R
+  rotate: true
+  xy: 279, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+ZY_Qi_L
+  rotate: false
+  xy: 145, 6
+  size: 9, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+ZY_Qi_R
+  rotate: false
+  xy: 175, 11
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+ZY_Shen
+  rotate: false
+  xy: 199, 15
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+ZY_Shui
+  rotate: false
+  xy: 108, 18
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
